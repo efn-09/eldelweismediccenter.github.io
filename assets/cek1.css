@@ -1,0 +1,71 @@
+html{
+  background-color: rgb(24, 27, 27);
+}
+
+body{
+  background-color: rgb(24, 27, 27);
+}
+
+.jumbotron{
+  background-image: url('img/kamar1.jpg');
+  background-size: cover;
+  height: 700px;
+  text-align: center;
+}
+
+.jumbotron .display-4{
+    font-family: Lucida Handwriting cursive;
+    margin-top: 200px;
+    font-size: 80px;
+}
+
+.jumbotron p{
+  font-size: 20px;
+  color: white;
+}
+
+.jumbotron hr{
+  width: 80px;
+  border-color: black;
+  border-width: 7px;
+}
+
+
+.container-fluid{
+  margin-top: -34px;
+  margin-bottom: 30px;
+}
+.card{
+  text-align: center;
+  margin-top: 34px;
+  margin-bottom: 30px;
+  background-color: rgb(24, 27, 27);
+}
+
+.skill{
+  text-align: left;
+}
+
+.card1{
+  margin-top: -29px;
+}
+
+.col-4{
+  margin-top: 34px;
+  margin-bottom: 30px;
+  border-color: white;
+}
+.col-8{
+  margin-top: 34px;
+  margin-bottom: 30px;
+}
+
+.progress{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.progress .progress-bar{
+  width: 0;
+  transition: all ease 0.7s;
+}

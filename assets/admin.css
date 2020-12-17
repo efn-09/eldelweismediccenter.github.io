@@ -1,0 +1,42 @@
+html{
+  background-color: rgb(24, 27, 27);
+}
+
+body{
+  background-color: rgb(24, 27, 27);
+}
+
+.jumbotron{
+  background-image: url('img/uang.jpg');
+  background-size: cover;
+  height: 700px;
+  text-align: center;
+}
+
+.jumbotron .display-4{
+    font-family: Lucida Handwriting cursive;
+    margin-top: 200px;
+    font-size: 80px;
+}
+
+.jumbotron p{
+  font-size: 20px;
+  color: white;
+}
+
+.jumbotron hr{
+  width: 80px;
+  border-color: black;
+  border-width: 7px;
+}
+
+.col-4 ul li {
+  text-decoration:;
+  font-size: 40px;
+  list-style: none;
+}
+
+.col-8 ul li{
+  font-size: 24px;
+  color: white;
+}

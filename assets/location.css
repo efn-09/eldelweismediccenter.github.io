@@ -1,0 +1,48 @@
+html{
+  background-color: rgb(24, 27, 27);
+}
+
+body{
+  background-color: rgb(24, 27, 27);
+}
+
+.jumbotron{
+  background-image: url('img/phone2.jpg');
+  background-size: cover;
+  height: 700px;
+  text-align: center;
+  margin-top: -100px;
+}
+
+.jumbotron .display-4{
+    font-family: Lucida Handwriting cursive;
+    margin-top: 170px;
+    font-size: 80px;
+    color: black;
+}
+
+.jumbotron p{
+  font-size: 20px;
+  color: black;
+}
+
+.jumbotron hr{
+  width: 80px;
+  border-color: black;
+  border-width: 7px;
+  color: black;
+}
+
+.row h6{
+  margin-top: 30px;
+}
+
+iframe{
+  width: 1320px;
+  height: 470px;
+  display: block;
+  margin: auto;
+  max-width:100%;
+  /*width:100%;*/
+  max-height: 100%;
+}
